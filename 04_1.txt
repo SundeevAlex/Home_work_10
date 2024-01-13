@@ -1,0 +1,10 @@
+touch file
+chmod a+x file
+vim file
+
+прописываем в этом файле:
+#!/usr/bin/python3
+print("Hello from Linux!")
+
+export PATH=$PATH:/home/navigsundeev
+./file

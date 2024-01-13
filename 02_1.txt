@@ -1,0 +1,1 @@
+ls /usr/sbin | sort | grep user > user_cmd.txt

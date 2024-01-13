@@ -1,0 +1,1 @@
+(ls /usr/bin | grep user && cat user_cmd.txt) | sort --output=user_cmd.txt
